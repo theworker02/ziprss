@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/ziprss",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zip identifiers and rss tokens for idempotent workflows.",
+  "bin": {
+    "ziprss": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/ziprss.git"
+  },
+  "homepage": "https://theworker02.github.io/ziprss/",
+  "keywords": [
+    "zip",
+    "rss",
+    "id",
+    "cli",
+    "toolkit"
+  ]
+}
